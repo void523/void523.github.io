@@ -1,0 +1,30 @@
+body{
+  background:url(image/bg_cover.jpg) no-repeat center center fixed;
+  background-size: cover;
+  overflow: hidden;   
+}
+
+.hero{
+  color: #fff;
+  margin-top: 50%;
+  text-align:center;
+  font-size: 75px;
+  letter-spacing: -.05em;
+  line-height: 1.2em;
+  font-family: 'Pacifico', cursive;
+  word-spacing: 30px;
+  /* font-family: 'Revalia', cursive; */
+}
+.ima{
+  height: 100px;
+  width: 200px;
+}
+
+a:link ,  a:visited{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#999999;
+}

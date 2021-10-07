@@ -1,4 +1,8 @@
 # void523.github.io
 This repository comprises of worked out github pages based on udemy course 
 link to course:https://www.udemy.com/course/html5-fundamentals-for-beginners/
-link to project(responsive):https://void523.github.io/All_About_Coffee_Responsive/index.html
+link to Page(responsive):https://void523.github.io/All_About_Coffee_Responsive/index.html
+
+Price Panel Project
+course link:https://www.udemy.com/course/the-web-developer-bootcamp/
+Link to Page: https://void523.github.io/Pricing%20Panel/index.html

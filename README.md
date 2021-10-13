@@ -9,4 +9,4 @@ Link to Page: https://void523.github.io/Pricing%20Panel/index.html
 
 Museum Of Candy Project
 course link:https://www.udemy.com/course/the-web-developer-bootcamp/
-Link to Page: 
+Link to Page: https://void523.github.io/Museum%20Of%20Candy/index.html
